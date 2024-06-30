@@ -1,3 +1,3 @@
 # C Project Template
 
-Basic template for C projects
+Template for basic projects using C.
